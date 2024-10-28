@@ -2,5 +2,5 @@
 
 版本下载地址
 
-* mac版本[下载地址](https://dl3.xmind.cn/Xmind-for-macOS-24.04.10311-202405232307.dmg)
+* mac版本[下载地址](https://dl3.xmind.cn/Xmind-for-macOS-24.04.10311-202405232307.dmg)，mac版本执行`feature/mac`分支的文件
 * win版本 ~
